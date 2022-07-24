@@ -1,6 +1,9 @@
 # medical_one
 
-A new Flutter project.
+Screenshot for UI
+
+
+![localhost_59032_(iPhone 12 Pro)](https://user-images.githubusercontent.com/66769129/180627552-423f01dc-f2da-4e7a-b3d0-18f40b9e12a8.png)
 
 ## Getting Started
 
