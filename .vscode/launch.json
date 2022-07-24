@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\utility\\doctor_card.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\utility\\doctor_card.dart"
+        }
+    ]
+}
